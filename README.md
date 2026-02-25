@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 - 🎓 **3rd-year student** diving deep into Artificial Intelligence and Data Science.
 - 🧠 Exploring both cutting-edge **AI/ML models** and classical **Computer Vision**.
-- ⚡ I love turning Jupyter notebooks into production-ready APIs (FastAPI).
+- ⚡ I love turning Jupyter notebooks into production-ready APIs.
 - 📫 Reach out: **[LinkedIn](https://www.linkedin.com/in/serour/)** or **mohyassersaps@gmail.com**
 
 <br/>
