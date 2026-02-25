@@ -46,9 +46,3 @@
 | **[Ensemble-Learning](https://github.com/Serour-6/Ensemble-Learning-and-Random-Forests)** | Advanced implementation of Ensemble AI techniques (Voting, Bagging, Random Forests, Boosting). |
 
 <br/>
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serour-6&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB" alt="Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serour-6&layout=compact&theme=transparent&hide_border=true&title_color=3776AB" alt="Top Languages" height="160"/>
-</p>
