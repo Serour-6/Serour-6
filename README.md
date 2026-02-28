@@ -41,6 +41,7 @@
 | Project | Description |
 |---------|-------------|
 | **[Spam-Detection-Model](https://github.com/Serour-6/Spam-Detection-Model)** | Production-grade AI spam detection API combining ML and FastAPI with sub-10ms response times. |
+| **[Agent-Anamoly-Detection-CreditCard](https://github.com/Serour-6/Agent-Anamoly-Detection-CreditCard)** | A machine learning project that combines classical unsupervised anomaly detection methods with an LLM-powered agent |
 | **[End-To-End-ML](https://github.com/Serour-6/End-To-End-ML-Project)** | A complete end-to-end machine learning system engineered to predict housing prices. |
 | **[Template-Matching](https://github.com/Serour-6/Template-Matching)** | Classical computer vision pipeline using OpenCV with normalized cross-correlation and NMS. |
 | **[Ensemble-Learning](https://github.com/Serour-6/Ensemble-Learning-and-Random-Forests)** | Advanced implementation of Ensemble AI techniques (Voting, Bagging, Random Forests, Boosting). |
